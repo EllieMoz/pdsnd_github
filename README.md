@@ -1,3 +1,5 @@
+### Rectifications - Master - the project was not redone but the but the commit messages were updated
+
 ### Date created
 1 April 2023
 
@@ -15,4 +17,4 @@ The files used are chicago.csv, new_york_city.csv and washington.csv
 ### Credits
 Biggest thanks to Kam, the Udacity course and RMIT.
 
-### I found this very very hard without having much of a programming background - struggletown!!
+### I found this very very hard without having much of a programming background - struggletown!! 
