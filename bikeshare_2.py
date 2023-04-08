@@ -1,8 +1,9 @@
+# refactoring edits
 import time
 import pandas as pd
 import numpy as np
 
-
+# refactoring data dictionary
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
