@@ -1,4 +1,4 @@
-### Rectifications - Master - the project was not redone but the but the commit messages were updated
+### Rectifications - Master - the project was not redone but the but the commit messages were updated twice
 
 ### Date created
 1 April 2023
